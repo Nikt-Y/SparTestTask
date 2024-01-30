@@ -9,4 +9,4 @@
 Проект является демонстрационным и не содержит реальных данных.
 
 ## Лицензия
-[MIT License](https://ru.wikipedia.org/wiki/Лицензия_MIT).
+[MIT License](https://ru.wikipedia.org/wiki/Лицензия_MIT)
